@@ -22,6 +22,6 @@
 - **DAX (Custom Measures)**  
 - **GitHub (Version Control)** 
 ---
-
-**BY:Yuvraj Tiwari**
+**👨‍💻 Developed By**
+**Name:Yuvraj Tiwari**
 
