@@ -17,10 +17,10 @@
 
 ---
 
-**## Tools & Technologies  
-- Power BI (Data Visualization)  
-- DAX (Custom Measures)  
-- GitHub (Version Control) **
+## Tools & Technologies  
+- **Power BI (Data Visualization)** 
+- **DAX (Custom Measures)****  
+- **GitHub (Version Control)** 
 ---
 
 **BY:Yuvraj Tiwari**
