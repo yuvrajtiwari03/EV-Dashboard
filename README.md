@@ -1,5 +1,5 @@
 # 🚗 EV Market Dashboard 
-Power BI dashboard showcasing Global EV Market insights – Price, Range, Efficiency, Body Styles &amp; Market Share.
+**Power BI dashboard showcasing Global EV Market insights – Price, Range, Efficiency, Body Styles &amp; Market Share**.
 
 ## 📊 Dashboard Preview  
 
@@ -9,7 +9,7 @@ Power BI dashboard showcasing Global EV Market insights – Price, Range, Effici
 
 ---
 
-## 🔑 Key Insights  
+##  Key Insights  
 - 📈 **Price vs Range** comparison across brands  
 - 🔵 **Efficiency Bubble Chart** for visual comparison  
 - 🍩 **Donut Chart** showing Market Share distribution  
@@ -17,7 +17,7 @@ Power BI dashboard showcasing Global EV Market insights – Price, Range, Effici
 
 ---
 
-## 🛠 Tools & Technologies  
+## Tools & Technologies  
 - Power BI (Data Visualization)  
 - DAX (Custom Measures)  
 - GitHub (Version Control)  
