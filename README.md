@@ -10,10 +10,10 @@
 ---
 
 ##  Key Insights  
-- 📈 **Price vs Range** comparison across brands  
-- 🔵 **Efficiency Bubble Chart** for visual comparison  
-- 🍩 **Donut Chart** showing Market Share distribution  
-- 🚘 **Body Style by Brand** stacked column analysis  
+-  **Price vs Range** comparison across brands  
+-  **Efficiency Bubble Chart** for visual comparison  
+-  **Donut Chart** showing Market Share distribution  
+-  **Body Style by Brand** stacked column analysis  
 
 ---
 
