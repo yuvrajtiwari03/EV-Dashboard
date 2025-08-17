@@ -19,7 +19,7 @@
 
 ## Tools & Technologies  
 - **Power BI (Data Visualization)** 
-- **DAX (Custom Measures)****  
+- **DAX (Custom Measures)**  
 - **GitHub (Version Control)** 
 ---
 
