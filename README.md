@@ -1,23 +1,47 @@
-# 🌐 Global EV Market Dashboard
+🚗 Global EV Market Insights Dashboard ⚡
+📖 Overview
 
-A Power BI dashboard providing comprehensive insights into the Electric Vehicle (EV) market worldwide – covering Price, Range, Efficiency, Body Styles, and Market Share.
+The Global EV Market Insights Dashboard is an interactive Power BI project that provides a comprehensive analysis of the global electric vehicle (EV) industry.
 
-## 📊 Dashboard Preview  
+It highlights key metrics such as average price, driving range, efficiency, and market share, helping users understand the competitive landscape of leading EV brands.
 
-![EV Dashboard1](dashboard.png)<img width="610" height="329" alt="dashboard png" src="https://github.com/user-attachments/assets/2d7a7c98-c500-4feb-83d7-36b595dfdca9" />
+📊 Key Features
 
-[EV Dashboard2](dashboard2.png)<img width="670" height="399" alt="dashboard2 png" src="https://github.com/user-attachments/assets/fb84fe44-00a8-40a6-be57-cd9247c18214" />
+🔑 Dashboard KPIs
 
----
+Average EV Price: €55.81K
 
-##  Key Insights  
--  **Price vs Range** comparison across brands  
--  **Efficiency Bubble Chart** for visual comparison  
--  **Donut Chart** showing Market Share distribution  
--  **Body Style by Brand** stacked column analysis  
+Average Driving Range: 338.79 Km
 
----
+Number of Models Analyzed: 103
 
+Maximum Efficiency: 273 Wh/Km
+
+📈Visual Insights
+
+**Average EV Price by Brand**
+
+Lucid, Porsche, and Audi are positioned as premium brands.
+
+Peugeot, Opel, and Honda offer affordable EVs.
+
+**Brand Comparison (Price | Range | Efficiency)
+**
+Bubble chart highlights trade-offs between cost, driving range, and efficiency.
+
+**Top Brands by Maximum Driving Range
+**
+Tesla leads with 970 Km, followed by Lucid (610 Km) and Lightyear (575 Km).
+
+**Market Share by Brand**
+
+Tesla holds 13%, followed by Audi (9%), Nissan (8%), and Volkswagen (8%).
+
+**Body Style Distribution**
+
+SUVs and Sedans dominate the market.
+
+Tesla leads in the SUV category..
 ## Tools & Technologies  
 - **Power BI (Data Visualization)** 
 - **DAX (Custom Measures)**  
