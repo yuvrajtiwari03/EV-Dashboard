@@ -36,7 +36,8 @@ Uncover the story behind electric vehicles! Explore **pricing trends, driving ra
 
 ## 📸 Dashboard Preview
 
-![Global EV Market Dashboard] <img width="605" height="337" alt="Screenshot 2025-10-02 134721" src="https://github.com/user-attachments/assets/1e546025-66e1-4ed4-9db7-8e813a83b85d" />  <img width="601" height="334" alt="Screenshot 2025-10-02 134755" src="https://github.com/user-attachments/assets/59294660-3cb4-4ba0-bd4f-25b0a8ef9a4a" />
+![Global EV Market Dashboard] <img width="605" height="337" alt="Screenshot 2025-10-02 134721" src="https://github.com/user-attachments/assets/1e546025-66e1-4ed4-9db7-8e813a83b85d" />
+<img width="601" height="334" alt="Screenshot 2025-10-02 134755" src="https://github.com/user-attachments/assets/59294660-3cb4-4ba0-bd4f-25b0a8ef9a4a" />
 
 
 
