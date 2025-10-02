@@ -1,67 +1,39 @@
 
-🚗 Global EV Market Insights Dashboard ⚡
-📖 Overview
+# 🚗 Global EV Market Insights Dashboard ⚡
 
-The Global EV Market Insights Dashboard is an interactive Power BI project that delivers a comprehensive analysis of the global electric vehicle (EV) industry.
+An interactive Power BI dashboard providing insights into the global EV industry with focus on price trends, driving range, efficiency, and market share of leading brands.
 
-It highlights key metrics such as average price, driving range, efficiency, and market share, helping users quickly understand the competitive landscape of leading EV brands.
+---
 
-📊 Key Features
-🔑 Dashboard KPIs
+## 📊 Key Highlights
 
-Average EV Price: €55.81K
+- **Average EV Price:** €55.81K  
+- **Average Driving Range:** 338.79 Km  
+- **Models Analyzed:** 103  
+- **Max Efficiency:** 273 Wh/Km  
 
-Average Driving Range: 338.79 Km
+**Top Insights:**  
+- **Premium Brands:** Lucid, Porsche, Audi  
+- **Affordable EVs:** Peugeot, Opel, Honda  
+- **Longest Range:** Tesla (970 Km), Lucid (610 Km), Lightyear (575 Km)  
+- **Market Share Leaders:** Tesla (13%), Audi (9%), Nissan (8%), VW (8%)  
+- **Popular Body Styles:** SUVs & Sedans dominate; Tesla leads SUVs  
 
-Number of Models Analyzed: 103
+---
 
-Maximum Efficiency: 273 Wh/Km
+## 🛠️ Tools & Technologies
 
-📈 Visual Insights
+Power BI | DAX | Excel/CSV | GitHub
 
-Average EV Price by Brand
+---
 
-Premium brands: Lucid, Porsche, Audi
+## 👨‍💻 Developed By
 
-Affordable options: Peugeot, Opel, Honda
+**Yuvraj Tiwari** – Data Analyst | Power BI Enthusiast | Transforming Complex EV Data into Actionable Business Insights  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/)
 
-Brand Comparison (Price | Range | Efficiency)
+---
 
-Bubble chart illustrates trade-offs between cost, driving range, and efficiency.
+## 📸 Dashboard Preview
 
-Top Brands by Maximum Driving Range
-
-Tesla: 970 Km
-
-Lucid: 610 Km
-
-Lightyear: 575 Km
-
-Market Share by Brand
-
-Tesla: 13% (highest)
-
-Audi: 9%, Nissan: 8%, Volkswagen: 8%
-
-Body Style Distribution
-
-SUVs and Sedans dominate the EV market.
-
-Tesla leads in the SUV category.
-
-🛠️ Tools & Technologies
-
-Power BI → Data visualization & dashboard design
-
-DAX → Custom measures for KPIs
-
-Excel/CSV → Data cleaning & preparation
-
-GitHub → Version control & project sharing
-
-👨‍💻 Developed By
-
-Name: Yuvraj Tiwari
-🔗 LinkedIn: www.linkedin.com/in/yuvraj-tiwari-647a96245
-
-✨ With this dashboard, you can gain valuable insights into EV pricing, efficiency, and market positioning—a powerful tool for both industry analysis and business decision-making.
+![Global EV Market Dashboard](./images/ev_dashboard.png)
